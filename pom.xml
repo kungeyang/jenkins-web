@@ -43,6 +43,7 @@
 	</dependencies>
 	
 	<build>
+		<finalName>jenkins-web</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
